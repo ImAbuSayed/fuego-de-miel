@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fuego-de-miel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Fuego de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-de-miel/) |
+| **Get License** | [Music Rights & Licensing for Fuego de miel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fuego-de-miel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, tú tienes ese fuego de miel, yeah
+> Me quemo lento rozando tu piel
+> Bajo las luces de Madrid, oh well
+> Tonight you're mine y te trato de cartel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
