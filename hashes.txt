@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fuego de miel
+
+This log tracks the cryptographic history and versioning for the song **Fuego de miel** (fuego-de-miel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T12:38:36.582990 | `v1` | `f3c2cc0d1e5c2e9551547d16264b20b41026aea590756fc566c2cee1322196d2` | `d48f882d0c4e0597232dfe0026aa14fb9c99dd9505eec02f488a6ac25a2c748a` | `2026-06-24_fuego-de-miel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
